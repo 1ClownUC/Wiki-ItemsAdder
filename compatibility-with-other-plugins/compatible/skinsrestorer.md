@@ -30,7 +30,7 @@ success:
 
 ### Step 3
 
-Open `config.yml` of **SkinsRestorer** and set `DisableOnJoinSkins: false`
+Open `config.yml` of **SkinsRestorer** and set `DisableOnJoinSkins: true`
 
 ### Step 4
 
